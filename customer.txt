@@ -1,0 +1,76 @@
+{
+	"_id" : ObjectId("625c045c388b7de606fa3440"),
+	"name" : "Prasad",
+	"email" : "prasad@gmail.com",
+	"password" : "$2b$10$TQECFSW/FP1xjzB3z/ntq.vJ7bqvZz09ZP25TwZFJcSCmYQxiJUhi",
+	"isSuperAdmin" : "Not",
+	"mobileNumber" : "8299809090",
+	"createdAt" : ISODate("2022-04-17T17:43:16.925+05:30"),
+	"updatedAt" : ISODate("2022-04-17T17:43:16.925+05:30"),
+	"__v" : 0
+},
+
+/* 2 createdAt:4/17/2022, 4:02:11 PM*/
+{
+	"_id" : ObjectId("625becabc777cd524908c72f"),
+	"name" : "Rishabh Singh",
+	"email" : "rishabh@gmail.com",
+	"password" : "$2b$10$LsDtSbSSf9KashznQHiSl.L39TOdpi9hwiFiMaE469MQqbU7QI4Ei",
+	"isSuperAdmin" : "Not",
+	"mobileNumber" : "8299908050",
+	"createdAt" : ISODate("2022-04-17T16:02:11.829+05:30"),
+	"updatedAt" : ISODate("2022-04-17T16:02:11.829+05:30"),
+	"__v" : 0
+},
+
+/* 3 createdAt:4/17/2022, 1:16:36 PM*/
+{
+	"_id" : ObjectId("625bc5dc258359b940ac25d5"),
+	"name" : "kivi",
+	"email" : "kivi@gmail.com",
+	"password" : "$2b$10$mxHLr1sIUOGUBb29OeL8Ce1TjzTqwCjr2EyJqnUt5.VD2OpfhcOZi",
+	"isSuperAdmin" : "Yes",
+	"mobileNumber" : "1231231234",
+	"createdAt" : ISODate("2022-04-17T13:16:36.858+05:30"),
+	"updatedAt" : ISODate("2022-04-17T13:16:36.858+05:30"),
+	"__v" : 0
+},
+
+/* 4 createdAt:4/16/2022, 5:06:12 PM*/
+{
+	"_id" : ObjectId("625aaa2c32d1386ffc4c53fe"),
+	"name" : "atul",
+	"email" : "atul@gmail.com",
+	"password" : "$2b$10$Y06sFOLMmK.scYm1N0XTJejhNdPIH64cGRpTLHc0QioJvu./PWpDu",
+	"isSuperAdmin" : "Not",
+	"mobileNumber" : "1231231231",
+	"createdAt" : ISODate("2022-04-16T17:06:12.158+05:30"),
+	"updatedAt" : ISODate("2022-04-16T17:06:12.158+05:30"),
+	"__v" : 0
+},
+
+/* 5 createdAt:4/16/2022, 4:57:40 PM*/
+{
+	"_id" : ObjectId("625aa82c32d1386ffc4c53fb"),
+	"name" : "kishor",
+	"email" : "kgf@gmail.com",
+	"password" : "$2b$10$zhVIv9um/xSV657GCZ12O.d1NvgBie4Sg8Nnq8THuQjsn0k5n5zCa",
+	"isSuperAdmin" : "Not",
+	"mobileNumber" : "8299805151",
+	"createdAt" : ISODate("2022-04-16T16:57:40.168+05:30"),
+	"updatedAt" : ISODate("2022-04-16T16:57:40.168+05:30"),
+	"__v" : 0
+},
+
+/* 6 createdAt:4/15/2022, 10:26:51 PM*/
+{
+	"_id" : ObjectId("6259a3d3135c6807cbca13a7"),
+	"name" : "rishabh",
+	"email" : "rgp@gmail.com",
+	"password" : "$2b$10$fLCtw8d1K/DRsDsVK40LzuMLxJO7dZLh.LVUWbcjOvPlDkyfFm6Jy",
+	"isSuperAdmin" : "Not",
+	"mobileNumber" : "8299805150",
+	"createdAt" : ISODate("2022-04-15T22:26:51.460+05:30"),
+	"updatedAt" : ISODate("2022-04-15T22:26:51.460+05:30"),
+	"__v" : 0
+}

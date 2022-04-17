@@ -1,0 +1,176 @@
+{
+	"_id" : ObjectId("625c04fc388b7de606fa345f"),
+	"productTitle" : "Mango",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "Its a nice Fruit",
+	"productPrice" : 25,
+	"productCategory" : "Fruit",
+	"createdAt" : ISODate("2022-04-17T17:45:56.412+05:30"),
+	"updatedAt" : ISODate("2022-04-17T17:45:56.412+05:30"),
+	"__v" : 0
+},
+
+/* 2 createdAt:4/17/2022, 4:04:11 PM*/
+{
+	"_id" : ObjectId("625bed23c777cd524908c738"),
+	"productTitle" : "Men Tshirt",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "Polo Tshirt",
+	"productPrice" : 235,
+	"productCategory" : "Clothing",
+	"createdAt" : ISODate("2022-04-17T16:04:11.112+05:30"),
+	"updatedAt" : ISODate("2022-04-17T16:04:11.112+05:30"),
+	"__v" : 0
+},
+
+/* 3 createdAt:4/17/2022, 4:04:10 PM*/
+{
+	"_id" : ObjectId("625bed22c777cd524908c735"),
+	"productTitle" : "Men Tshirt",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "Polo Tshirt",
+	"productPrice" : 235,
+	"productCategory" : "Clothing",
+	"createdAt" : ISODate("2022-04-17T16:04:10.690+05:30"),
+	"updatedAt" : ISODate("2022-04-17T16:04:10.690+05:30"),
+	"__v" : 0
+},
+
+/* 4 createdAt:4/17/2022, 3:21:54 PM*/
+{
+	"_id" : ObjectId("625be33ac777cd524908c725"),
+	"productTitle" : "Steamer",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "It is a very good product",
+	"productPrice" : 250,
+	"productCategory" : "Electronics",
+	"createdAt" : ISODate("2022-04-17T15:21:54.524+05:30"),
+	"updatedAt" : ISODate("2022-04-17T15:21:54.524+05:30"),
+	"__v" : 0
+},
+
+/* 5 createdAt:4/17/2022, 3:16:44 PM*/
+{
+	"_id" : ObjectId("625be204c777cd524908c71b"),
+	"productTitle" : "Electric Cooker",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "It is a very good product",
+	"productPrice" : 265,
+	"productCategory" : "Electronics",
+	"createdAt" : ISODate("2022-04-17T15:16:44.135+05:30"),
+	"updatedAt" : ISODate("2022-04-17T15:16:44.135+05:30"),
+	"__v" : 0
+},
+
+/* 6 createdAt:4/17/2022, 2:57:17 PM*/
+{
+	"_id" : ObjectId("625bdd75395b8f89ebfeb49e"),
+	"productTitle" : "Electric Kettle",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "It is a very good product",
+	"productPrice" : 265,
+	"productCategory" : "Electronics",
+	"createdAt" : ISODate("2022-04-17T14:57:17.195+05:30"),
+	"updatedAt" : ISODate("2022-04-17T14:57:17.195+05:30"),
+	"__v" : 0
+},
+
+/* 7 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54386"),
+	"productTitle" : "iphone13",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-fee535f2-a196-46d9-bd7a-fb5b84057847.png",
+	"description" : "Alastrim",
+	"productPrice" : 67000,
+	"productCategory" : "Mobile"
+},
+
+/* 8 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54385"),
+	"productTitle" : "Hair Dryer",
+	"productPhoto" : "http://dummyimage.com/120x100.png/dddddd/000000",
+	"description" : "Cephalic vers NOS-deliv",
+	"productPrice" : 2010,
+	"productCategory" : "Electronic"
+},
+
+/* 9 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54384"),
+	"productTitle" : "Shirt",
+	"productPhoto" : "http://dummyimage.com/149x100.png/ff4444/ffffff",
+	"description" : "Hypertrph nasal turbinat",
+	"productPrice" : 1987,
+	"productCategory" : "Clothes"
+},
+
+/* 10 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54383"),
+	"productTitle" : "Tomato",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-3de3236f-5e2e-48b3-9d89-81ff4ef1fb1f.jpg",
+	"description" : "Brain lac NEC-brief coma",
+	"productPrice" : 2011,
+	"productCategory" : "Vegetable"
+},
+
+/* 11 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54382"),
+	"productTitle" : "Potao",
+	"productPhoto" : "https://waycoolstorage.blob.core.windows.net/receivable/file-3de3236f-5e2e-48b3-9d89-81ff4ef1fb1f.jpg",
+	"description" : "Int inf norwalk virus",
+	"productPrice" : 2003,
+	"productCategory" : "Vegetable"
+},
+
+/* 12 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54381"),
+	"productTitle" : "Icecream Bar - Del Monte",
+	"productPhoto" : "http://dummyimage.com/248x100.png/cc0000/ffffff",
+	"description" : "Mv n-traff NEC-ped cycl",
+	"productPrice" : 1987,
+	"productCategory" : "Icecream"
+},
+
+/* 13 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a54380"),
+	"productTitle" : "Ketchup - Tomato",
+	"productPhoto" : "http://dummyimage.com/233x100.png/ff4444/ffffff",
+	"description" : "Toxic effect alcohol NOS",
+	"productPrice" : 2007,
+	"productCategory" : "Sauce"
+},
+
+/* 14 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a5437f"),
+	"productTitle" : "Apple",
+	"productPhoto" : "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+	"description" : "Spon abort w shock-inc",
+	"productPrice" : 2004,
+	"productCategory" : "Fruits"
+},
+
+/* 15 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a5437e"),
+	"productTitle" : "Guavava",
+	"productPhoto" : "http://dummyimage.com/177x100.png/cc0000/ffffff",
+	"description" : "Measles uncomplicated",
+	"productPrice" : 2001,
+	"productCategory" : "Fruits"
+},
+
+/* 16 createdAt:4/16/2022, 8:46:10 AM*/
+{
+	"_id" : ObjectId("625a34fad0e4abb094a5437d"),
+	"productTitle" : "Pine Apple",
+	"productPhoto" : "http://dummyimage.com/127x100.png/5fa2dd/ffffff",
+	"description" : "Phthisical cornea",
+	"productPrice" : 2005,
+	"productCategory" : "Fruits"
+}
